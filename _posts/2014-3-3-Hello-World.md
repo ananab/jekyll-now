@@ -13,4 +13,4 @@ When burger steaks are done, put them aside to rest. Add onion bits to the pan t
 
 Make lettuce tomato salad and serve.
 
-![alt image](https://web.wechat.com/cgi-bin/mmwebwx-bin/webwxgetmsgimg?&MsgID=6972436561904131362&skey=%40crypt_39b9eb30_c717d5f20cbd5d54aca717d56d3e11ab "burger steak")
+![alt image](https://github.com/ananab/ananab.github.io/blob/master/images/webwxgetmsgimg.jpg "burger steak")
