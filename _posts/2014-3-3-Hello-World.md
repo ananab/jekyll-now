@@ -1,6 +1,6 @@
 ---
 layout: post
-title: burger steak recipe
+title: Burger Steak Recipe
 ---
 
 I made burger steak with fries and salad last night and would like to share the recipe on this post. Burger steak is a popular lunch selection in Asia, which is usually a large piece of burger meat with sauce, often larger than a regular burger. My burger steak has a cheddar cheese stuffing and were served with redwine pepper sauce, fries made from potato and yam, and a simple tomato lettuce salad. Here are the steps:
